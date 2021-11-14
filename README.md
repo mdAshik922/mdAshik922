@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Js, Express.js,**MongoDB
+- 🌱 I’m currently learning **Js,**Express.js,**MongoDB
 
 - 💬 Ask me about **react**
 
