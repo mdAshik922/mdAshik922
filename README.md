@@ -40,11 +40,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashik922&show_icons=true&locale=en&layout=compact" alt="mdashik922" /></p>
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdashik922&show_icons=true&locale=en" alt="mdashik922" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdAshik922)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdAshik922)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdAshik922)  
 
