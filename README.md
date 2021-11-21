@@ -9,11 +9,11 @@
 
 
 
-- 🌱 I’m currently learning **Js**,**Express.js**,**MongoDB**
+- 🌱Learning everyday, currently learning to master MERN stack.
 
-- 💬 Ask me about **react**
+- 💬  I’m always looking for challenging work oppurtunities ahead.
 
-- 📫 How to reach me **md.ashik0005723@gmail.com**
+- 📫 How to reach me: <a href="md.ashik0005723@gmail.com" target="_blank">Let's get in touch!<a/> ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
