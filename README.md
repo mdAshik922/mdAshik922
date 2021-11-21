@@ -13,7 +13,7 @@
 
 - 💬  I’m always looking for challenging work oppurtunities ahead.
 
-- 📫 How to reach me: <a href="md.ashik0005723@gmail.com" target="_blank">Let's get in touch!<a/> ****
+- 📫 How to reach me: **md.ashik0005723@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
