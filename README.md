@@ -43,7 +43,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdashik922&show_icons=true&locale=en" alt="mdashik922" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdAshik922)  
 
 
 <h3 align="left">Support:</h3>
