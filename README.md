@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h1 align="center"> I'm Md.Mahamudul Hassan Ashik</h1>
-<h3 align="center">A passionate junior web developer from Bangladesh</h3>
+<h3 align="center">A passionate Front-end Web Developer from Bangladesh</h3>
 
 
 - 🌱Learning everyday, currently learning to master MERN stack.
