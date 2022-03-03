@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h1 align="center"> I'm Md.Mahamudul Hassan Ashik</h1>
+<h1 align="center"> I'm Mahamudul Hassan Ashik</h1>
 <h3 align="center">A passionate Front-end Web Developer from Bangladesh</h3>
 
 
