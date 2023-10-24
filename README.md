@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/md.mahmudul hassan ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.mahmudul hassan ashik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mahamudul-hassan-ashik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.mahmudul hassan ashik" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/md.ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md.ashik" height="30" width="40" /></a>
 <a href="https://fb.com/md. ashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. ashik" height="30" width="40" /></a>
 <a href="https://instagram.com/md.khondokara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.khondokara" height="30" width="40" /></a>
